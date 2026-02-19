@@ -8,7 +8,7 @@
  * Serial Monitor every 500 milliseconds.
  *
  * @author Khushi Singh
- * @date 19 Feb 2026
+ * @date 19 Feb 2026 
  */
 // Pin Definitions
 int fsrPin = A0;      ///< FSR connected to analog pin A0
